@@ -1,0 +1,7 @@
+name:"ginas-website"
+output_dir:"."
+navbar:
+  title: "Gina's First Website"
+  left:
+    -text: "home"
+    href:index.html
