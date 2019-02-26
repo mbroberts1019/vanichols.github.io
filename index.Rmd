@@ -1,0 +1,7 @@
+---
+title: "My Website I Made Under Duress"
+---
+
+Hello. I'm taking a class. One of the assignments was to make a website using Rmarkdown website. 
+
+This is A+ work, right?

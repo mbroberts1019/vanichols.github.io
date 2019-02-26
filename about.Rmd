@@ -1,0 +1,10 @@
+---
+  title: "About Me"
+---
+  
+I'm from a prison town in Colorado, where the women took typing and the men took robotics. 
+
+It's a nice place, though. Here is a unrealistically beautiful picture of one of my town's main attractions, the 
+**Royal Gorge Bridge**
+
+![](royalgorge.jpg)
