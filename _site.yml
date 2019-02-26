@@ -3,5 +3,13 @@ output_dir: "."
 navbar:
   title: "Gina's First Website"
   left:
-   - text: "home"
+   - text: "Home"
      href: index.html
+   - text: "About Me"
+     href: about.html
+   - text: "Projects"
+     href:  projects.html
+output:
+  html_document:
+    theme: sandstone
+    highlight: espresso
