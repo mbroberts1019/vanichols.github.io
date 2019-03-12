@@ -1,0 +1,15 @@
+---
+  title: "Activities"
+---
+  
+Here are some images I need to make a hex sticker. 
+
+![](picniccloth.jpg)
+
+![](utensils.png)
+
+![](Rlogo.svg) 
+
+![](lettuce.png)
+
+![](hexpractice.png)
