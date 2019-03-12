@@ -2,7 +2,7 @@
   title: "Activities"
 ---
   
-Here are some images I need to make a hex sticker. 
+Here are some images I need to make a hex sticker using [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html). The result is at the bottom. 
 
 ![](picniccloth.jpg)
 
