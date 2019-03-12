@@ -12,4 +12,6 @@ Here are some images I need to make a hex sticker using [magick](https://cran.r-
 
 ![](lettuce.png)
 
+![](magick-lunchinators2.png)
+
 ![](hexpractice.png)
