@@ -8,24 +8,23 @@
   
 ##Do more diverse crop rotations reduce weed pressure?
 
--**Status:** Submitted. The dataset is being published through ISU's [DataShare](http://instr.iastate.libguides.com/datashare)
+-**Status:** [Published](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219847). [The dataset](https://iastate.figshare.com/articles/Effect_of_crop_rotation_on_weed_biomass_and_density_literature_summary/7771010) was published through ISU's wonderful [DataShare](http://instr.iastate.libguides.com/datashare) service.
 
 
 ##Maize and soybean root distributions in Iowa, USA
 
--**Status:** On version 13.  
-
-
-##Does using cover crops increase the water-holding capacity of soil?
-
--**Status:** In progress. Thanks to the North Central Sustainable Agriculture Research and Eduction graduate student grant for funding this fun project where I'm collaborating with [PFI](https://practicalfarmers.org/)
+-**Status:** [Published](https://link.springer.com/article/10.1007/s11104-019-04269-6)
 
 
 ##Do cover crops change the amount/makeup of weed seeds?
 
--**Status:** Another PFI collaboration. In progress. Soil sampling will happen when the soil thaws. Which *will* happen. I'm sure of it...
-![](pond.png)
+-**Status:** A collaboration with [PFI](https://practicalfarmers.org/). Manuscript is in progress, which is academic-speak for don't ask me about it. 
+
+##Does using cover crops increase the water-holding capacity of soil?
+
+-**Status:** In progress. Thanks to the North Central Sustainable Agriculture Research and Eduction graduate student grant for funding this fun project where I'm again collaborating with PFI.
+
 
 ##Do crop roots respond to cropping system history?
 
--**Status:** One field season down, one to go. 
+-**Status:** Two field seasons down, one to go? 
